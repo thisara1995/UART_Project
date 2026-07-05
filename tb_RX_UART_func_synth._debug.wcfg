@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_RX_UART_time_impl.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_RX_UART" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="2073128835fs"></ZoomEndTime>
+      <Cursor1Time time="3807610000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="274"></NameColumnWidth>
+      <ValueColumnWidth column_width="128"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="8" />
+   <wave_markers>
+      <marker time="2047611000" label="" />
+   </wave_markers>
+   <wvobject fp_name="/tb_RX_UART/i_stream" type="logic">
+      <obj_property name="ElementShortName">i_stream</obj_property>
+      <obj_property name="ObjectShortName">i_stream</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_RX_UART/o_data" type="array">
+      <obj_property name="ElementShortName">o_data[7:0]</obj_property>
+      <obj_property name="ObjectShortName">o_data[7:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_RX_UART/rst_debu" type="logic">
+      <obj_property name="ElementShortName">rst_debu</obj_property>
+      <obj_property name="ObjectShortName">rst_debu</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_RX_UART/UUT/i_stream_synch" type="logic">
+      <obj_property name="ElementShortName">i_stream_synch</obj_property>
+      <obj_property name="ObjectShortName">i_stream_synch</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_RX_UART/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_RX_UART/UUT/clk_index" type="array">
+      <obj_property name="ElementShortName">clk_index[1:0]</obj_property>
+      <obj_property name="ObjectShortName">clk_index[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_RX_UART/UUT/Done_BIT" type="logic">
+      <obj_property name="ElementShortName">Done_BIT</obj_property>
+      <obj_property name="ObjectShortName">Done_BIT</obj_property>
+   </wvobject>
+   <wvobject fp_name="group157" type="group">
+      <obj_property name="label">Shft_Reg</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject fp_name="/tb_RX_UART/UUT/\shft_reg_reg_n_0_[0] " type="logic">
+         <obj_property name="ElementShortName">\shft_reg_reg_n_0_[0] </obj_property>
+         <obj_property name="ObjectShortName">\shft_reg_reg_n_0_[0] </obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_RX_UART/UUT/\shft_reg_reg_n_0_[1] " type="logic">
+         <obj_property name="ElementShortName">\shft_reg_reg_n_0_[1] </obj_property>
+         <obj_property name="ObjectShortName">\shft_reg_reg_n_0_[1] </obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_RX_UART/UUT/\shft_reg_reg_n_0_[2] " type="logic">
+         <obj_property name="ElementShortName">\shft_reg_reg_n_0_[2] </obj_property>
+         <obj_property name="ObjectShortName">\shft_reg_reg_n_0_[2] </obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_RX_UART/UUT/\shft_reg_reg_n_0_[3] " type="logic">
+         <obj_property name="ElementShortName">\shft_reg_reg_n_0_[3] </obj_property>
+         <obj_property name="ObjectShortName">\shft_reg_reg_n_0_[3] </obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_RX_UART/UUT/\shft_reg_reg_n_0_[4] " type="logic">
+         <obj_property name="ElementShortName">\shft_reg_reg_n_0_[4] </obj_property>
+         <obj_property name="ObjectShortName">\shft_reg_reg_n_0_[4] </obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_RX_UART/UUT/\shft_reg_reg_n_0_[5] " type="logic">
+         <obj_property name="ElementShortName">\shft_reg_reg_n_0_[5] </obj_property>
+         <obj_property name="ObjectShortName">\shft_reg_reg_n_0_[5] </obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_RX_UART/UUT/\shft_reg_reg_n_0_[6] " type="logic">
+         <obj_property name="ElementShortName">\shft_reg_reg_n_0_[6] </obj_property>
+         <obj_property name="ObjectShortName">\shft_reg_reg_n_0_[6] </obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_RX_UART/UUT/\shft_reg_reg_n_0_[7] " type="logic">
+         <obj_property name="ElementShortName">\shft_reg_reg_n_0_[7] </obj_property>
+         <obj_property name="ObjectShortName">\shft_reg_reg_n_0_[7] </obj_property>
+      </wvobject>
+   </wvobject>
+</wave_config>
